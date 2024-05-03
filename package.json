@@ -1,0 +1,17 @@
+{
+  "name": "fizz-buzz",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "types": "@jest/types",
+  "jest": {
+    "verbose": true
+  },
+  "devDependencies": {
+    "@jest/types": "^29.6.3",
+    "jest": "^29.7.0"
+  }
+}
